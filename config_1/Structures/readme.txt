@@ -1,1 +1,0 @@
-This folder to be used by Airfra
